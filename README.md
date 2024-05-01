@@ -1,0 +1,1 @@
+# A python cli app which computes the electricity bill of a flat. There are two flatmates in the flat and the app calculates the share of each flatmate as a function of the number of days that they stayed in the flat during the bill period. The app also generates a pdf document of the bill.
